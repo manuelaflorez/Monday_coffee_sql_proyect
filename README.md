@@ -3,7 +3,7 @@
 ![Company Logo](https://github.com/najirh/Monday-Coffee-Expansion-Project-P8/blob/main/1.png)
 
 ## Objective
-The goal of this project is to analyze the sales data of Monday Coffee, a company that has been selling its products online since January 2023, and to recommend the top three major cities in India for opening new coffee shop locations based on consumer demand and sales performance.
+The goal of this project is to analyze the sales data of Monday Coffee, a company that has been selling its products online since January 2023, and to recommend the top three major cities in Mexico for opening new coffee shop locations based on consumer demand and sales performance.
 
 ## Key Questions
 1. **Coffee Consumers Count**  
@@ -55,7 +55,7 @@ After analyzing the data, the recommended top three cities for new store opening
 2. Average rent per customer is the lowest at 156 and the total rent is 10.8k
 3. Average sales per customer is better at 11.6k.
 
-The dashboard to this project may be found on [Tableau](https://public.tableau.com/app/profile/manuela.florez/viz/Monday_coffee/Mondaycoffeesales)
+The dashboard for this project can be found on [Tableau](https://public.tableau.com/app/profile/manuela.florez/viz/Monday_coffee/Mondaycoffeesales)
 
 ## Disclaimer
 
