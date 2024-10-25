@@ -55,6 +55,8 @@ After analyzing the data, the recommended top three cities for new store opening
 2. Average rent per customer is the lowest at 156 and the total rent is 10.8k
 3. Average sales per customer is better at 11.6k.
 
+You may find the dashboard for this proyect on (https://public.tableau.com/app/profile/manuela.florez/viz/Monday_coffee/Mondaycoffeesales)
+
 ## Disclaimer
 
 This project was developed following the guidance of Zero Analyst.
