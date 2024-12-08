@@ -1,0 +1,15 @@
+city_id,city_name, population ,estimated_rent,city_rank
+1,Puebla,"$12,300,000",29700,1
+2,Tijuana,"$11,100,000",17100,6
+3,Ciudad Juarez,"$7,500,000",15300,9
+4,Nezahualcóyotl,"$4,000,000",10800,8
+5,Cdmx,"$31,000,000",22500,3
+6,Guadalajara,"$20,400,000",31500,2
+7,Ecatepec,"$10,000,000",22500,4
+8,León,"$8,300,000",14400,5
+9,Monterrey,"$14,900,000",16200,7
+10,Zapopan,"$7,200,000",13500,10
+11,Querétaro,"$3,800,000",9000,11
+12,Aguascalientes,"$3,100,000",8100,12
+13,Culiacán,"$2,900,000",7200,13
+14,San Luis Potosí,"$3,300,000",6300,14
